@@ -1,0 +1,2 @@
+cd ChallengeOne
+terraform apply
